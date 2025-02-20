@@ -16,6 +16,6 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
-pywinpty
+
 
 -e .
